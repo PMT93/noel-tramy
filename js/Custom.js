@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "Gửi Hêu 💗",
-                        "Chúc bà Hêu có một mùa giáng sinh ngọt ngào, ấm áp và tràn đầy niềm vui. <br> Love You!!! <br>&emsp; Merry Christmas!!! <br>&emsp;&emsp;&emsp;&emsp;24/12/2023",
+                        "Chúc bà Hêu có một mùa giáng sinh ngọt ngào, ấm áp và tràn đầy niềm vui. <br> Love You💕 <br>&emsp; Merry Christmas!!! <br>&emsp;&emsp;&emsp;&emsp;24/12/2023",
                         ],
                         typeSpeed: 25,
                         startDelay: 100,
