@@ -1,5 +1,5 @@
 var sound = new Howl({
-    urls: ['song/background.mp3'],
+    src: ['https://github.com/PMT93/noel-tramy/blob/master/song/background.mp3'],
     loop: true
   });
 
