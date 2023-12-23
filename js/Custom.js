@@ -197,11 +197,11 @@ $(document).ready(function() {
                         "Gửi Hêu 💗",
                         "Chúc bà Hêu có một mùa giáng sinh ngọt ngào, ấm áp và tràn đầy niềm vui. <br> Love You💕 <br>&emsp; Merry Christmas!!! <br>&emsp;&emsp;&emsp;&emsp;24/12/2023",
                         ],
-                        typeSpeed: 25,
+                        typeSpeed: 2,
                         startDelay: 100,
                         backSpeed: 25,
-                        backDelay: 1000,
-                        loop: true,
+                        backDelay: 2000,
+                        loop: false,
                         contentType: 'html',
                         showCursor: false
                     });
